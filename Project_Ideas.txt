@@ -1,0 +1,52 @@
+Project Title
+Players Scouting Management System
+
+Project description
+This project has been initiated to increase the efficiency of scouting in Bangladesh's domestic football league which would further enhance the quality of future players in Bangladesh's national team as well as in world football. In addition, The system will enable ease of scouting players for teams and help for easier interaction of the selection process of players. Indeed, The project will provide a system that will add another dimension to modern football.
+
+Requirements & their features
+
+Scouts can view players’ profile
+The system will allow scouts to view players’ name
+The system will allow scouts to view players’ playing position
+The system will allow scouts to view players’ playing club
+The system will allow scouts to view players' physical attributes(pace, dribble, shooting etc.)
+
+Scouts can view clubs’ profile
+The system will allow scouts to view clubs’ name
+The system will allow scouts to view descriptions of the clubs
+The system will allow scouts to view clubs’ players
+The system will allow scouts to view players’ details information in the club
+
+Scouts can edit players’ information
+The system will allow scouts to add players’ name
+The system will allow scouts to add players’ playing position
+The system will allow scouts to add players’ playing club
+The system will allow scouts to add players’ statistics
+The system will allow scouts to change players’ information
+
+Scouts can upload players’ scouting report
+The system will allow scouts to add about of the players(player name, playing club, etc.) 
+The system will allow scouts to add the title of the report
+The system will allow scouts to add descriptions of the report
+The system will allow scouts to submit the scouting report
+
+Clubs can edit their own profile
+The system will allow clubs to view players’ name
+The system will allow clubs to view players’ profile
+The system will allow clubs to view players’ statistics
+The system will allow clubs to view their own profile
+The system will allow clubs to change their own profile
+
+Coaches can help teamsclubs’ player selection
+The system will allow coaches to view players’ name
+The system will allow coaches to view players’ profile
+The system will allow coaches to view players’ statistics
+The system will allow coaches to view clubs’ profile
+
+
+Fans can view match details
+The system will allow fans to see match fixtures
+The system will fans to see match results
+The system will fans to see points table
+The system will allow fans to see the player of the match
