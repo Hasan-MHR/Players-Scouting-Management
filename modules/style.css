@@ -1,0 +1,52 @@
+.bannerMod{
+    width:240px;
+    height: 200px;
+    background-color: rgb(223, 134, 134);
+    transition: 0.5s;
+}
+.banner:hover{
+    background-color: rgb(223, 134, 134);
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.bannerMod:focus{
+    background-color: rgb(223, 134, 134);
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.cardMod{
+    height:400px;
+    width:380px;
+    margin:auto;
+    padding:auto;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 3px 3px 7px 7px #aaaaaa;
+    transition: 0.5s;
+}
+.cardMod:hover{
+    height:400px;
+    width:380px;
+    margin:auto;
+    padding:auto;
+    border: 1px solid #00f2ff;
+    background-color: white;
+    box-shadow: 3px 3px 7px 7px #aaaaaa;
+    transition: 0.5s;
+}
+.btnAllign{
+    margin-left:35%;
+    width:120px;
+    text-align: center;
+}
+.btnAllign:hover{
+    transform: scale(1.1);
+}
+
+
+.authAlter{
+    margin-left: 25%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
